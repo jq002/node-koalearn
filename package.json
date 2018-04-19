@@ -1,0 +1,22 @@
+{
+  "name": "koademo",
+  "version": "1.0.0",
+  "description": "learn koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon  index.js"
+  },
+  "keywords": [
+    "node.js",
+    "koa2"
+  ],
+  "author": "jq",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "koa-router": "^7.4.0"
+  }
+}
