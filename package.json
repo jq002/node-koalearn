@@ -8,6 +8,7 @@
     "dev": "nodemon  index.js",
     "cookies":"nodemon ./cookies/index.js",
     "jsonp":"nodemon ./jsonp/index.js",
+    "middleware":"nodemon ./middleware/index.js",
     "middle":"nodemon ./static-server-middleware/index.js"
   },
   "keywords": [
